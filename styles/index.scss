@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    background-color: #f4f5f8;
+}
+
+header {
+   
+    text-align: center;
+    
+
+    .logo-name {
+        @media screen and (max-width: 600px) {
+            margin-bottom: 0px; 
+           }
+
+    img {
+        height: 30vh; 
+        width: 100%;
+    }
+
+}
+}
+nav {
+    margin: 0px;
+    background: #f9f9f9;
+    padding: 0px;
+    justify-content: center;
+    .menuItems {
+        list-style: none;
+        display: flex;
+        font-size: 16px;
+        justify-content: space-evenly;
+        li {
+            margin: 4px;
+}
+
+        @media screen and (min-width: 600px) {
+            nav {
+                .menuitems {
+                    font-size: 30px;
+                }
+            }
+
+        }
+
+
+            a {
+                text-decoration: none;
+                color: #8f8f8f;
+                font-size: 16px;
+                font-weight: 400;
+                transition: all 0.5s ease-in-out;
+                position: relative;
+                text-transform: uppercase;
+
+                &::before {
+                    content: attr(data-item);
+                    transition: 0.5s;
+                    color: #1d36a3;
+                    position: absolute;
+                    top: 0;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    width: 0;
+                    overflow: hidden;
+                }
+
+                &:hover {
+                    &::before {
+                        width: 100%;
+                        transition: all 0.5s ease-in-out;
+                    }
+                }
+            }
+        }
+    }
+
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    background-color: #f9f9f9;
+}
+
+footer {
+    background-color: #d8c690;
+    padding: 0;
+    text-align: center;
+    margin-top: auto;
+    height: 100px;
+    .social-media {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 0px;
+        align-items: center;
+        a {
+            i {
+                color: #1d36a3;
+                font-size: 16px;
+                align-items: center;
+                
+            }
+        }
+    }
+
+    .info {
+        color: #1d36a3;
+        
+        p {
+            margin-bottom: 12px;
+            font-size: 16px;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+    }
+}
+
+        @media screen and (min-width: 600px) {
+           
+
+            footer {
+                .social-media {
+                    width: 50%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    a {
+                        i {
+                            font-size: 32px;
+                        }
+                    }
+
+                    .info {
+                        p {
+                            font-size: 32px;
+                        }
+                    }
+                }
+            }
+        }
+
+
+        
