@@ -5,6 +5,9 @@ https://github.com/JacobLee42/Assignment_T1A2
 Link to Netlify
 https://jacobleedesigns.netlify.app
 
+Link to youtube
+https://youtu.be/agQsllWQdqw
+
 # Jacob Lee Portfolio
 
 ## Description
