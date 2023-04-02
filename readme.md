@@ -2,6 +2,9 @@
 Link to git repository
 https://github.com/JacobLee42/Assignment_T1A2
 
+Link to Netlify
+https://jacobleedesigns.netlify.app
+
 # Jacob Lee Portfolio
 
 ## Description
@@ -100,18 +103,20 @@ The main issue I had with this, as well as most codepens I attempted to use or d
 
 ## Sitemap
 
-The sitemap is a basic HTML sitemap which lists all the important information about the pages on a website. As you see from the image below, the sitemap lists the main website pages in hierarchical order (level of importance). So we can see that the main pages of my website are at the top of the map (Home, About etc,). We can see that the blog page has five (5) articles that wil be added as the content for the Blog page.
+The sitemap is a basic HTML sitemap which lists all the important information about the pages on a website. As you see from the image below, the sitemap lists the main website pages in hierarchical order (level of importance). So we can see that the main pages of my website are at the top of the map (Home, About etc,). We can see that the blog page has five (5) articles that wil be added as the content for the Blog page. Image is below:
 
+![Alt text](Sitemap.JPG)
 
 
 ## Screenshots
 
-Here are three screen shots of my website deployed live on Netlify (if I can get it working)
+Most of the screenshots are above, however I will add the view in each mobile, tablet and desktop below:
 
+![Alt text](docs/M%20home.JPG)
 
+![Alt text](docs/L%20home.JPG)
 
-
-
+![Alt text](docs/T%20home.JPG)
 
 
 ## Target Audience
