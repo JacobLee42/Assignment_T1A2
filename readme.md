@@ -1,3 +1,7 @@
+
+Link to git repository
+https://github.com/JacobLee42/Assignment_T1A2
+
 # Jacob Lee Portfolio
 
 ## Description
@@ -91,13 +95,31 @@ The link for the codepen used to help create/style is below:
 
 https://codepen.io/leenalavanya/pen/mPWdPZ
 
-The main issue I with this, as well as most codepens I attempted to use or draw inspiration from, was that it is mainly written and appears full screen. As someone with rather limited experience, it posed a challenge somewhat with resizing to fit in the desired space I wanted it to occupy. Like with most things I somehow managed to Macgyver things and it seemed to work out rather ok for the most part.
+The main issue I had with this, as well as most codepens I attempted to use or draw inspiration from, was that it is mainly written and appears full screen. As someone with rather limited experience, it posed a challenge somewhat with resizing to fit in the desired space I wanted it to occupy.  I somehow managed to resize things and make them fit as required and it seemed to work out rather ok for the most part.
 
 
 ## Sitemap
 
-The sitemap is a basic outline of the proposed pages of the website.
-
-[label](Portfolio%20sitemap.drawio)
+The sitemap is a basic HTML sitemap which lists all the important information about the pages on a website. As you see from the image below, the sitemap lists the main website pages in hierarchical order (level of importance). So we can see that the main pages of my website are at the top of the map (Home, About etc,). We can see that the blog page has five (5) articles that wil be added as the content for the Blog page.
 
 
+
+## Screenshots
+
+Here are three screen shots of my website deployed live on Netlify (if I can get it working)
+
+
+
+
+
+
+
+## Target Audience
+
+The target audience for this portfolio assignment is for potential employers or clients that may wish to employ our services at the completion of the Diploma of IT course provided by Coder Academy. It also serves a dual purpose of demonstrating the skills and knowledge gained so far in the course not only to potential employers but to our teachers, demonstrators, educators it shows where we are individually in our skills and knowledge, but ultimately what area we need to focus on to shore up any gaps in our skills and knowledge.
+
+## Tech Stack
+
+I used Looka to create my logo - Jacob Lee Designs. I used this logo as my header. I used Visual Studio Code (VS Code) a source-code editor used to compile all the code. I used Hypertext Markup Language (HTML), Cascading Style Sheets (CSS) and Sassy Cascading Style Sheets (SCSS) to create and style the content displayed on the web pages. I used Google Chrome search engine to help me troubleshoot problems, find inspiration etc. I used Figma for the wireframing and Drawio for the sitemap. I used Github - an internet hosting service for software development and version control using Git. I used Codepen and Instagram for coding advice, inspiration, ideas, etc. I used Netlify (when it works) to send my project website live. I used W3schools - an online web tutorial website and Stack Overflow - a large community of people experienced in IT - who help with any issues you may be facing while coding, etc. I also used the Coder Academy Discord link to send messages if I had any questions or challanges that arose while creating the website. I also used the Coder Academy class recordings if their was something I needed help with. I used Snippet - a image capture tool I used to capture screenshots. 
+
+# The End 

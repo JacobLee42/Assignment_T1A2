@@ -5,6 +5,7 @@ body {
     font-size: 1.125rem;
     font-weight: 300;
 }
+/* R2 Content */
 h1, 
 h2,
 h3 {
@@ -17,6 +18,7 @@ h1{
   font-size: 2rem;
   margin: 0;
 }
+/* End */
 a {
     color: #1792d2;
 }
@@ -59,7 +61,7 @@ strong {
 .article-info {
     margin: 2em 0;
 }
-
+/* R3 Graphical */
 .container-flex{
   max-width: 70vw;
   margin: 0 auto;
@@ -74,6 +76,7 @@ img{
   display: flex;
   
 }
+
 main{
   max-width: 75%;
 }
@@ -90,7 +93,7 @@ main{
     width: 200px;
     
 }
-
+/* End */
 @media (max-width:1050px){
   .container-flex{
     flex-direction: column;
